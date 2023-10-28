@@ -23,7 +23,7 @@ sleep 3
 echo '0.1|0.2|0.3|0.4|0.5|0.6|0.7|0.8|0.9'
 read DOWNSCALE
 sleep 2
-echo "Enter for downscale for Battery Saber Mode" 
+echo "Enter for downscale for Battery Saver Mode" 
 read DOWNSCALE2
 echo " "
 sleep 2
