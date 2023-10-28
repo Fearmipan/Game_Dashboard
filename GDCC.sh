@@ -23,7 +23,7 @@ sleep 3
 echo '0.1|0.2|0.3|0.4|0.5|0.6|0.7|0.8|0.9'
 read DOWNSCALE
 sleep 2
-echo "Enter for downscale for Battery Saver Mode" 
+echo "Enter downscale for Battery Saver Mode" 
 read DOWNSCALE2
 echo " "
 sleep 2
@@ -36,7 +36,7 @@ sleep 3
 echo '30|40|45|60|90|120'
 read FPS
 sleep 2
-echo "Enter for Battery Saver Mode" 
+echo "Enter FPS for Battery Saver Mode" 
 read FPS2
 echo " " 
 sleep 2
